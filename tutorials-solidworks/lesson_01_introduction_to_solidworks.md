@@ -5,7 +5,7 @@
 
 ---
 
-## 📝 What I Learned
+## What I Learned
 - How to create base, boss and cut features from sketches
 - How to add fillets to smooth edges
 - How to create a circular pattern
@@ -14,7 +14,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 (Add images to `images/tutorials/lesson_01/` and link them here)
 
 Example:
