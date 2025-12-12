@@ -4,7 +4,7 @@ A documented learning journey through SolidWorks, ANSYS, MATLAB, and OpenFOAM to
 This repository documents my progress learning SolidWorks, ANSYS, MATLAB, and OpenFOAM as I build my engineering portfolio.  
 It includes tutorial notes, screenshots, small projects, and reflections on what I’m learning.
 
-## 📚 Goals
+## Goals
 - Learn SolidWorks fundamentals (sketching, parts, assemblies, drawings)
 - Build confidence in CAD workflows
 - Explore simulations using ANSYS and OpenFOAM
@@ -13,5 +13,5 @@ It includes tutorial notes, screenshots, small projects, and reflections on what
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
