@@ -1,4 +1,4 @@
-# Lesson 01 — Basic Sketching
+# Introduction to Solidworks — Basic Sketching
 
 **Date:** (12.12.2025)  
 **Objective:** Complete the first SolidWorks tutorial and learn the basics of 2D sketching and drawing.
