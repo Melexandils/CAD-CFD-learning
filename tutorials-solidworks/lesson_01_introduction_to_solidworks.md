@@ -15,8 +15,7 @@
 ---
 
 ## Screenshots
-images/tutorials/lesson_01/lesson_01-drawing.png
+https://github.com/Melexandils/CAD-CFD-learning/blob/main/images/tutorials/lesson_01/lesson_01-drawing.png?raw=true
 
-images/tutorials/lesson_01/lesson_01-my-first-part.png
-
+https://github.com/Melexandils/CAD-CFD-learning/blob/main/images/tutorials/lesson_01/lesson_01-my-first-part.png?raw=true
 
