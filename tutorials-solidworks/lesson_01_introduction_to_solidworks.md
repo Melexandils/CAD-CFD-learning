@@ -15,7 +15,8 @@
 ---
 
 ## Screenshots
-(Add images to `images/tutorials/lesson_01/` and link them here)
+images/tutorials/lesson_01/lesson_01-drawing.png
 
-Example:
+images/tutorials/lesson_01/lesson_01-my-first-part.png
+
 
