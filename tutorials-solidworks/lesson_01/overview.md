@@ -17,3 +17,8 @@
 ---
 
 ## Screenshots
+
+<img width="1234" height="1031" alt="Screenshot 2025-12-13 132438" src="https://github.com/user-attachments/assets/11da8029-b0a6-4281-99a7-bfefe5a375ef" />
+
+<img width="933" height="1068" alt="Screenshot 2025-12-13 132509" src="https://github.com/user-attachments/assets/d298394d-c120-4e73-91e0-3b630c48076d" />
+
