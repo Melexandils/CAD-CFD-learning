@@ -12,3 +12,7 @@
 ---
 
 ## Screenshots
+
+<img width="1275" height="1068" alt="image" src="https://github.com/user-attachments/assets/30436af3-db3c-4fef-827b-3266ccb6f14b" />
+
+<img width="1075" height="1023" alt="image" src="https://github.com/user-attachments/assets/b6785ab8-3635-4275-8789-fbb546bb182b" />
