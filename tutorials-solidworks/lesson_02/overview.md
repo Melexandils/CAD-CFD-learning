@@ -12,5 +12,3 @@
 ---
 
 ## Screenshots
-
-https://github.com/Melexandils/CAD-CFD-learning/blob/main/images/tutorials/lesson_02/Screenshot%202025-12-17%20192527.png?raw=true
