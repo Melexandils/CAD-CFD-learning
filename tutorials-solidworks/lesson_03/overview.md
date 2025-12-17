@@ -1,6 +1,6 @@
 # Lesson 2 — Assemblies
 
-**Date:** (17.12.2025)  
+**Date:** (18.12.2025)  
 **Objective:** Build a simple assembly based on the part that I created in Lesson 1.
 
 ---
