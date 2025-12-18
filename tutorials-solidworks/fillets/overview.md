@@ -12,6 +12,12 @@ The steps include:
 
 - How to use relations in sketching
 - How to add draft angles to extruded features
+- How to add different fillet types
+  - Face
+  - Constant radius
+  - Variable radius
+- How to use mirroring to assure symmetry
+- How to apply a library feature
 ---
 
 ## Screenshots
