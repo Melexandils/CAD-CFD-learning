@@ -1,7 +1,7 @@
 # Lesson 2 — Drawings
 
 **Date:** (18.12.2025)  
-**Objective:** Build a simple assembly based on the part that I created in Lesson 1.
+**Objective:** Create a multi-sheet drawing of the parts and assembly from Lessons 1 and 2.
 
 ---
 
